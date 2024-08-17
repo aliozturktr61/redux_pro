@@ -1,4 +1,4 @@
-# React Redux ile Modal Açma Ürün Ekleme Güncelleme be Silme
+# React Redux ile Modal Açma Ürün Ekleme Güncelleme ve Silme
 - Bu projede redux yapısı le bir modal oluşturup ürün ekleme ürünü güncelleme ve silme işlemlerini gerçekleştirdik.
 - Ayrıca sırala ve arama işlevleride bulunmaktadır.
 

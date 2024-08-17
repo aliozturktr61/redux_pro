@@ -44,3 +44,8 @@ module.exports = {
 - yarn add react-native-snap-carousel
 - yarn add react-native-vector-icons
    eklenti ve ayarları sitesinden alınıp yapılacak.
+
+  
+![redux proje](https://github.com/user-attachments/assets/e6db4822-37b3-4e39-bf41-dc22ee5d7ba1)
+
+  
